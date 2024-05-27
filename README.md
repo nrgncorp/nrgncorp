@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Onur Can ÖKSÜZ</h1>
 
 <p align="left"> I'm <strong style="color:purple;">Onur Can ÖKSÜZ</strong>, a motivated and talented candidate for the position of Jr. Frontend Web Developer. With a broad technical knowledge and experience, I possess the skills required to create user-friendly and impactful web applications.
-
+  
 Throughout my professional career, I have gained over 4 years of experience. I have honed my skills in important areas such as responsive design and browser compatibility. With my graphic design abilities and proficiency in Adobe Creative Suite programs, I create visual content to enhance user experience. Additionally, my knowledge and experience as a SQL Developer and Software Support Specialist have allowed me to play an active role in data management and reporting at every stage of projects.
 
 My education has also strengthened my knowledge in this field. I hold an associate degree in Computer Programming from Istanbul Esenyurt University, and during my high school education, I specialized in Database Programming.
 
-I have strong knowledge in modern technologies such as Angular, TypeScript, and Bootstrap, and I am proficient in fundamental web technologies like HTML5 and CSS3. I also effectively utilize Adobe Creative Suite programs.
+I have strong knowledge in modern technologies such as React, JavaScript, and Bootstrap, and I am proficient in fundamental web technologies like HTML5 and CSS3. I also effectively utilize Adobe Creative Suite programs.
 
-With my creative, analytical, and problem-solving skills, I am motivated to find the best solutions for every project. I am collaborative and open to continuous learning and self-improvement.</p>
+With my creative, analytical, and problem-solving skills, I am motivated to find the best solutions for every project. I am collaborative and open to continuous learning and self-improvement.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrgncorp&label=Profile%20views&color=961fb7&style=flat" alt="nrgncorp" /> </p>
 
