@@ -6,7 +6,7 @@ Throughout my professional career, I have gained over 4 years of experience. I h
 
 My education has also strengthened my knowledge in this field. I hold an associate degree in Computer Programming from Istanbul Esenyurt University, and during my high school education, I specialized in Database Programming.
 
-I have strong knowledge in modern technologies such as React, JavaScript, and Bootstrap, and I am proficient in fundamental web technologies like HTML5 and CSS3. I also effectively utilize Adobe Creative Suite programs.
+I have strong knowledge in modern technologies such as Angular, Typescript, and Bootstrap, and I am proficient in fundamental web technologies like HTML5 and CSS3. I also effectively utilize Adobe Creative Suite programs.
 
 With my creative, analytical, and problem-solving skills, I am motivated to find the best solutions for every project. I am collaborative and open to continuous learning and self-improvement.
 
